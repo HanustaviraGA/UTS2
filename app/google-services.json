@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "726745277233",
+    "project_id": "sunibngalam-66add",
+    "storage_bucket": "sunibngalam-66add.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:726745277233:android:6ca66d2f4d9300ce184610",
+        "android_client_info": {
+          "package_name": "com.hanvir.uts"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "726745277233-t1t20jndcu4h59nddse171odebvibq4m.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.hanvir.uts",
+            "certificate_hash": "10feea323ff36f7e20f16cd707167ad2ab30aafe"
+          }
+        },
+        {
+          "client_id": "726745277233-eoeap8omctppj89f6o02k8t8o5b91j2t.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA5sOHM3J3FS6GSCCBnHzzJSCJLffaHLkc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "726745277233-eoeap8omctppj89f6o02k8t8o5b91j2t.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
